@@ -1,0 +1,45 @@
+main {
+	'font-size: 0;
+}
+
+.box-parent {
+	margin-top: 90px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
+
+.box {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.upper { 
+    height: 200px;
+    width: 50%;
+}
+
+.upper-left {
+	background-color: green;
+}
+
+.upper-right {
+	background-color: blue;
+}
+
+.lower {
+    height: 300px;
+    width: 33%;
+}
+
+.lower-left {
+	background-color: grey;
+}
+
+.lower-middle {
+	background-color: black;
+}
+
+.lower-right {
+	background-color: orange;
+}
