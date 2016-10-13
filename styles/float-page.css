@@ -10,3 +10,24 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+p .top {
+	float: left;
+	margin-right: 10px;
+}
+
+p .bottom {
+	float: right;
+	margin-left: 10px;
+}
+
+p .picture {
+	width:300px;
+	margin-top: 10px;
+}
+
+p .top .bottom {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
